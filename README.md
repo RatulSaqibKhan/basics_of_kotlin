@@ -1,2 +1,2 @@
-# basics_of_kotlin
+# Basics of Kotlin
 Learn basics of Kotlin
